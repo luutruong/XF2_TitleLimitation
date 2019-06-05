@@ -1,0 +1,12 @@
+{
+    "edit_format": "radio",
+    "edit_format_params": "0={{ phrase('inherit') }}\n1=a thread title\n2=A thread title\n3=A Thread Title",
+    "data_type": "unsigned_integer",
+    "sub_options": [],
+    "validation_class": "",
+    "validation_method": "",
+    "default_value": "2",
+    "relations": {
+        "tl_TitleLimitation": 160
+    }
+}

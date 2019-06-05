@@ -1,0 +1,92 @@
+{
+    "option.tl_TitleLimitation_disallowChars.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "9be1ed74a9e1ff04fee2e652da31ade9"
+    },
+    "option.tl_TitleLimitation_excludeGroups.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "5d3a94530eab9e42793aea390844c1a5"
+    },
+    "option.tl_TitleLimitation_maxLength.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "7231a98b3fa0b2ed59be088fc19598c3"
+    },
+    "option.tl_TitleLimitation_minLength.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "f9d4ff4f214a97e32c65468e39f52a6a"
+    },
+    "option.tl_TitleLimitation_titleStyle.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "943dcd35816812453a06c6a734a034cb"
+    },
+    "option_explain.tl_TitleLimitation_disallowChars.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "dbe891c97364381eb374a575e136d137"
+    },
+    "option_explain.tl_TitleLimitation_excludeGroups.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "73fa4440c3bbbcc42e2b05ef44599bf3"
+    },
+    "option_explain.tl_TitleLimitation_maxLength.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.tl_TitleLimitation_minLength.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.tl_TitleLimitation_titleStyle.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_group.tl_TitleLimitation.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "bd5119022dc92e5c38d01926aff15cdb"
+    },
+    "option_group_description.tl_TitleLimitation.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "tl_title_limitation_please_enter_title_is_at_least_x_characters.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "4b870db9167428a400c34bdcd3ba4cbc"
+    },
+    "tl_title_limitation_please_enter_title_is_at_most_x_characters.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "2aa94d7cedcbc1f3b125803a1527fc14"
+    },
+    "tl_title_limitation_title_must_not_contains_disallow_characters.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "6c19d17c264d89a1674661a33ce8bdee"
+    }
+}

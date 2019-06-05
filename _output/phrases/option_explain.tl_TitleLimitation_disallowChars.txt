@@ -1,0 +1,1 @@
+Each characters should be separator by new line.

@@ -1,0 +1,17 @@
+{
+    "tl_TitleLimitation_disallowChars.json": {
+        "hash": "0e7451803a48a62e535ddcd8bc832e5d"
+    },
+    "tl_TitleLimitation_excludeGroups.json": {
+        "hash": "926056f57c5c3ef560792d426e657c50"
+    },
+    "tl_TitleLimitation_maxLength.json": {
+        "hash": "d50a26ca2c64f44349146a4f3964998a"
+    },
+    "tl_TitleLimitation_minLength.json": {
+        "hash": "7980b00b60b63a0561e876828515c05a"
+    },
+    "tl_TitleLimitation_titleStyle.json": {
+        "hash": "e7f6ddfbe9c3b5d6c145df0d86fc68cf"
+    }
+}
