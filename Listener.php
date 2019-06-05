@@ -69,7 +69,7 @@ class Listener
             $disallowChars = implode($disallowChars, '|');
             $disallowChars = str_replace('#', '\#', $disallowChars);
 
-            if (preg_match('#(' . $disallowChars . ')#', $entity->title)) {
+            if (preg_match('#(' . $disallowChars . ')#i', $entity->title)) {
                 $entity->error(\XF::phrase('tl_title_limitation_title_must_not_contains_disallow_characters'), 'title');
             }
         }
