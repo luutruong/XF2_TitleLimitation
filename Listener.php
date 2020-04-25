@@ -11,6 +11,10 @@ use XF\Entity\Thread;
 
 class Listener
 {
+    /**
+     * @param \XF\Mvc\Entity\Entity $entity
+     * @return void
+     */
     public static function onThreadPreSave(\XF\Mvc\Entity\Entity $entity)
     {
         if (!($entity instanceof Thread)) {
